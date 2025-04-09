@@ -199,4 +199,4 @@ if uploaded:
 else:
     print("No file was uploaded. Please run the cell again and upload an image.")
 
- `.ipynb` file version of the code too!
+# `.ipynb` file version of the code too!
