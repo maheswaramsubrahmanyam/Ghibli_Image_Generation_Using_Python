@@ -30,6 +30,7 @@ pip install diffusers transformers accelerate torch pillow matplotlib
 ```
 
 Or you can run the notebook directly in **Google Colab**, which supports GPU.
+![image](https://github.com/user-attachments/assets/005e0948-9605-441c-afaf-6f9532f5675d)
 
 ---
 
