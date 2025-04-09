@@ -83,7 +83,7 @@ Enter stylization strength (0.3-0.8, recommended 0.6):
 
  |
 
-> *(Note: Add real images here if you’re publishing the repo)*
+> *(Note: Add real and clear image for better results)*
 
 ---
 
