@@ -1,4 +1,4 @@
-Here’s a clean and well-structured `README.md` file for your Ghibli-style image generation project. It includes an introduction, setup instructions, usage guide, and output steps—all formatted for clarity on GitHub or any project repository.
+![ChatGPT Image Mar 30, 2025, 02_51_26 PM](https://github.com/user-attachments/assets/5db4d247-71f8-4926-b4c7-8c7f99d85d6d)Here’s a clean and well-structured `README.md` file for your Ghibli-style image generation project. It includes an introduction, setup instructions, usage guide, and output steps—all formatted for clarity on GitHub or any project repository.
 
 ---
 
@@ -74,7 +74,8 @@ Enter stylization strength (0.3-0.8, recommended 0.6):
 
 | Original Image | Ghibli-Stylized Output |
 |----------------|------------------------|
-| ![Original](sample_input.jpg) | ![Ghibli](sample_output.jpg) |
+| ![Original](sample_input.jpg) | ![Ghibli](sample_output.jpg)! ()
+ |
 
 > *(Note: Add real images here if you’re publishing the repo)*
 
