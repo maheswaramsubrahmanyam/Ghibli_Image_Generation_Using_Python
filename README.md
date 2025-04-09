@@ -116,4 +116,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like me to generate a PDF version or include a `.ipynb` file version of the code too!
+ `.ipynb` file version of the code too!
