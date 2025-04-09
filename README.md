@@ -73,6 +73,7 @@ Enter stylization strength (0.3-0.8, recommended 0.6):
 - Filename format: `ghibli_portrait_<your_image_name>.png`
 
 ---
+![image](https://github.com/user-attachments/assets/459b649e-f347-4b32-83f3-b2dcd95725d0)
 
 ## 📊 Example Output
 
