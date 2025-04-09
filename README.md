@@ -79,7 +79,8 @@ Enter stylization strength (0.3-0.8, recommended 0.6):
 
 | Original Image | Ghibli-Stylized Output |
 |----------------|------------------------|
-| ![Original](sample_input.jpg) | ![Ghibli](sample_output.jpg)! ()
+| ![Original](https://github.com/user-attachments/assets/73bcc4d2-738a-4821-a013-c038ff504053) | ![Ghibli](https://github.com/user-attachments/assets/5db4d247-71f8-4926-b4c7-8c7f99d85d6d)
+
  |
 
 > *(Note: Add real images here if you’re publishing the repo)*
